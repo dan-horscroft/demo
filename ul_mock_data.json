@@ -1,0 +1,2802 @@
+{
+  "users": {
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users",
+    "@odata.count": 100,
+    "value": [
+      {
+        "id": "a652842d-97ab-4d85-8a5b-051826d23bc9",
+        "businessPhones": [
+          "+1 (555) 0100"
+        ],
+        "displayName": "Adele Vance",
+        "givenName": "Adele",
+        "jobTitle": "Chief Executive Officer",
+        "mail": "adele.vance@company.demo",
+        "mobilePhone": "+1 (555) 0100",
+        "officeLocation": "Seattle - HQ",
+        "preferredLanguage": "en-US",
+        "surname": "Vance",
+        "userPrincipalName": "adele.vance@company.demo",
+        "department": "Executive",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "c7df2760-2c81-4ef7-b578-5b5392b571df"
+          }
+        ]
+      },
+      {
+        "id": "5f43538e-fa1c-4571-85ab-630bca1c3ba6",
+        "businessPhones": [
+          "+1 (555) 0101"
+        ],
+        "displayName": "Alex Wilber",
+        "givenName": "Alex",
+        "jobTitle": "Chief Financial Officer",
+        "mail": "alex.wilber@company.demo",
+        "mobilePhone": "+1 (555) 0101",
+        "officeLocation": "Seattle - HQ",
+        "preferredLanguage": "en-US",
+        "surname": "Wilber",
+        "userPrincipalName": "alex.wilber@company.demo",
+        "department": "Finance",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "c7df2760-2c81-4ef7-b578-5b5392b571df"
+          },
+          {
+            "disabledPlans": [],
+            "skuId": "f30db892-07e9-47e9-837c-80727f46fd3d"
+          }
+        ]
+      },
+      {
+        "id": "046433a9-6f39-4d6f-b903-f2454a466612",
+        "businessPhones": [
+          "+1 (555) 0102"
+        ],
+        "displayName": "Allan Deyoung",
+        "givenName": "Allan",
+        "jobTitle": "Chief Technology Officer",
+        "mail": "allan.deyoung@company.demo",
+        "mobilePhone": "+1 (555) 0102",
+        "officeLocation": "Seattle - HQ",
+        "preferredLanguage": "en-US",
+        "surname": "Deyoung",
+        "userPrincipalName": "allan.deyoung@company.demo",
+        "department": "Engineering",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "c7df2760-2c81-4ef7-b578-5b5392b571df"
+          }
+        ]
+      },
+      {
+        "id": "6ae77eec-a493-41d6-80e3-79013f54bbfd",
+        "businessPhones": [
+          "+1 (555) 0103"
+        ],
+        "displayName": "Patricia Davis",
+        "givenName": "Patricia",
+        "jobTitle": "Executive Assistant",
+        "mail": "patricia.davis@company.demo",
+        "mobilePhone": "+1 (555) 0103",
+        "officeLocation": "Seattle - HQ",
+        "preferredLanguage": "en-US",
+        "surname": "Davis",
+        "userPrincipalName": "patricia.davis@company.demo",
+        "department": "Executive",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "f607eb02-d20a-4896-a0ea-3f31aad58325",
+        "businessPhones": [
+          "+1 (555) 0104"
+        ],
+        "displayName": "Nestor Wilke",
+        "givenName": "Nestor",
+        "jobTitle": "Chief Information Security Officer",
+        "mail": "nestor.wilke@company.demo",
+        "mobilePhone": "+1 (555) 0104",
+        "officeLocation": "Seattle - HQ",
+        "preferredLanguage": "en-US",
+        "surname": "Wilke",
+        "userPrincipalName": "nestor.wilke@company.demo",
+        "department": "IT Security",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "c7df2760-2c81-4ef7-b578-5b5392b571df"
+          },
+          {
+            "disabledPlans": [],
+            "skuId": "184efa21-98c3-4e5d-95ab-d07053a96e67"
+          }
+        ]
+      },
+      {
+        "id": "d6f82559-af2c-4767-a52d-216d94380699",
+        "businessPhones": [
+          "+1 (555) 0105"
+        ],
+        "displayName": "Patti Fernandez",
+        "givenName": "Patti",
+        "jobTitle": "Security Operations Manager",
+        "mail": "patti.fernandez@company.demo",
+        "mobilePhone": "+1 (555) 0105",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Fernandez",
+        "userPrincipalName": "patti.fernandez@company.demo",
+        "department": "IT Security",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "c7df2760-2c81-4ef7-b578-5b5392b571df"
+          }
+        ]
+      },
+      {
+        "id": "66fe633a-4c81-4461-bc07-85163b2aa121",
+        "businessPhones": [
+          "+1 (555) 0106"
+        ],
+        "displayName": "Grady Archie",
+        "givenName": "Grady",
+        "jobTitle": "Security Analyst",
+        "mail": "grady.archie@company.demo",
+        "mobilePhone": "+1 (555) 0106",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Archie",
+        "userPrincipalName": "grady.archie@company.demo",
+        "department": "IT Security",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "c7df2760-2c81-4ef7-b578-5b5392b571df"
+          }
+        ]
+      },
+      {
+        "id": "2ecbd6fe-facb-4d38-abcd-8f77b1a6ce97",
+        "businessPhones": [
+          "+1 (555) 0107"
+        ],
+        "displayName": "Serena Davis",
+        "givenName": "Serena",
+        "jobTitle": "Threat Intelligence Analyst",
+        "mail": "serena.davis@company.demo",
+        "mobilePhone": "+1 (555) 0107",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Davis",
+        "userPrincipalName": "serena.davis@company.demo",
+        "department": "IT Security",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "c7df2760-2c81-4ef7-b578-5b5392b571df"
+          }
+        ]
+      },
+      {
+        "id": "59d2ad54-eb2f-454d-8bd2-fd457f1b2ef9",
+        "businessPhones": [
+          "+1 (555) 0108"
+        ],
+        "displayName": "Charles Moore",
+        "givenName": "Charles",
+        "jobTitle": "Penetration Tester",
+        "mail": "charles.moore@company.demo",
+        "mobilePhone": "+1 (555) 0108",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Moore",
+        "userPrincipalName": "charles.moore@company.demo",
+        "department": "IT Security",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "c7df2760-2c81-4ef7-b578-5b5392b571df"
+          }
+        ]
+      },
+      {
+        "id": "bb814d11-38c2-41ac-adb2-568d1c1bc858",
+        "businessPhones": [
+          "+1 (555) 0109"
+        ],
+        "displayName": "Christopher Jackson",
+        "givenName": "Christopher",
+        "jobTitle": "Security Engineer",
+        "mail": "christopher.jackson@company.demo",
+        "mobilePhone": "+1 (555) 0109",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Jackson",
+        "userPrincipalName": "christopher.jackson@company.demo",
+        "department": "IT Security",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "c7df2760-2c81-4ef7-b578-5b5392b571df"
+          }
+        ]
+      },
+      {
+        "id": "cdd88ee6-c042-4d3f-a1fa-58ba7be9c9ca",
+        "businessPhones": [
+          "+1 (555) 0110"
+        ],
+        "displayName": "Paul Martinez",
+        "givenName": "Paul",
+        "jobTitle": "SOC Analyst",
+        "mail": "paul.martinez@company.demo",
+        "mobilePhone": "+1 (555) 0110",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Martinez",
+        "userPrincipalName": "paul.martinez@company.demo",
+        "department": "IT Security",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "c7df2760-2c81-4ef7-b578-5b5392b571df"
+          }
+        ]
+      },
+      {
+        "id": "78448d3d-cd47-4a35-9377-ea49716a0771",
+        "businessPhones": [
+          "+1 (555) 0111"
+        ],
+        "displayName": "Brian Young",
+        "givenName": "Brian",
+        "jobTitle": "Incident Response Specialist",
+        "mail": "brian.young@company.demo",
+        "mobilePhone": "+1 (555) 0111",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Young",
+        "userPrincipalName": "brian.young@company.demo",
+        "department": "IT Security",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "c7df2760-2c81-4ef7-b578-5b5392b571df"
+          }
+        ]
+      },
+      {
+        "id": "23bef29b-404c-4b56-b610-8877944e63d6",
+        "businessPhones": [
+          "+1 (555) 0112"
+        ],
+        "displayName": "Marcus Collins",
+        "givenName": "Marcus",
+        "jobTitle": "Forensics Analyst",
+        "mail": "marcus.collins@company.demo",
+        "mobilePhone": "+1 (555) 0112",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Collins",
+        "userPrincipalName": "marcus.collins@company.demo",
+        "department": "IT Security",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "c7df2760-2c81-4ef7-b578-5b5392b571df"
+          },
+          {
+            "disabledPlans": [],
+            "skuId": "b05e124f-c7cc-45a0-a6aa-8cf78c946968"
+          }
+        ]
+      },
+      {
+        "id": "57ef93ca-f2dc-4b6d-bff9-fe63308ab58d",
+        "businessPhones": [
+          "+1 (555) 0113"
+        ],
+        "displayName": "Samantha Reed",
+        "givenName": "Samantha",
+        "jobTitle": "Vulnerability Analyst",
+        "mail": "samantha.reed@company.demo",
+        "mobilePhone": "+1 (555) 0113",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Reed",
+        "userPrincipalName": "samantha.reed@company.demo",
+        "department": "IT Security",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "c7df2760-2c81-4ef7-b578-5b5392b571df"
+          }
+        ]
+      },
+      {
+        "id": "68f764d7-9c77-4d72-af97-53b033b3df32",
+        "businessPhones": [
+          "+1 (555) 0114"
+        ],
+        "displayName": "Tyler Brooks",
+        "givenName": "Tyler",
+        "jobTitle": "Security Architect",
+        "mail": "tyler.brooks@company.demo",
+        "mobilePhone": "+1 (555) 0114",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Brooks",
+        "userPrincipalName": "tyler.brooks@company.demo",
+        "department": "IT Security",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "c7df2760-2c81-4ef7-b578-5b5392b571df"
+          },
+          {
+            "disabledPlans": [],
+            "skuId": "b05e124f-c7cc-45a0-a6aa-8cf78c946968"
+          }
+        ]
+      },
+      {
+        "id": "05cb33c3-cb0e-45cf-b4f1-e2fcbfd4fe04",
+        "businessPhones": [
+          "+1 (555) 0115"
+        ],
+        "displayName": "Victoria Hayes",
+        "givenName": "Victoria",
+        "jobTitle": "Compliance Analyst",
+        "mail": "victoria.hayes@company.demo",
+        "mobilePhone": "+1 (555) 0115",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Hayes",
+        "userPrincipalName": "victoria.hayes@company.demo",
+        "department": "IT Security",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "c7df2760-2c81-4ef7-b578-5b5392b571df"
+          }
+        ]
+      },
+      {
+        "id": "4d6ff177-14fd-4cb8-bfe2-a19ae3602bc1",
+        "businessPhones": [
+          "+1 (555) 0116"
+        ],
+        "displayName": "Aaron Mitchell",
+        "givenName": "Aaron",
+        "jobTitle": "Threat Hunter",
+        "mail": "aaron.mitchell@company.demo",
+        "mobilePhone": "+1 (555) 0116",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Mitchell",
+        "userPrincipalName": "aaron.mitchell@company.demo",
+        "department": "IT Security",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "c7df2760-2c81-4ef7-b578-5b5392b571df"
+          },
+          {
+            "disabledPlans": [],
+            "skuId": "b05e124f-c7cc-45a0-a6aa-8cf78c946968"
+          }
+        ]
+      },
+      {
+        "id": "fe968a43-3c75-4051-bfb3-f36e395821f8",
+        "businessPhones": [
+          "+1 (555) 0117"
+        ],
+        "displayName": "Emma Peterson",
+        "givenName": "Emma",
+        "jobTitle": "Security Operations Analyst",
+        "mail": "emma.peterson@company.demo",
+        "mobilePhone": "+1 (555) 0117",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Peterson",
+        "userPrincipalName": "emma.peterson@company.demo",
+        "department": "IT Security",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "c7df2760-2c81-4ef7-b578-5b5392b571df"
+          }
+        ]
+      },
+      {
+        "id": "5fbcb2be-7656-453b-b5c9-988d80046516",
+        "businessPhones": [
+          "+1 (555) 0118"
+        ],
+        "displayName": "Nathan Foster",
+        "givenName": "Nathan",
+        "jobTitle": "Malware Analyst",
+        "mail": "nathan.foster@company.demo",
+        "mobilePhone": "+1 (555) 0118",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Foster",
+        "userPrincipalName": "nathan.foster@company.demo",
+        "department": "IT Security",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "c7df2760-2c81-4ef7-b578-5b5392b571df"
+          }
+        ]
+      },
+      {
+        "id": "5ff81e51-1294-4a6e-95c6-7355d05eaa3c",
+        "businessPhones": [
+          "+1 (555) 0119"
+        ],
+        "displayName": "Lee Gu",
+        "givenName": "Lee",
+        "jobTitle": "Director of Engineering",
+        "mail": "lee.gu@company.demo",
+        "mobilePhone": "+1 (555) 0119",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Gu",
+        "userPrincipalName": "lee.gu@company.demo",
+        "department": "Engineering",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "c7df2760-2c81-4ef7-b578-5b5392b571df"
+          }
+        ]
+      },
+      {
+        "id": "b8dcf0c6-65b6-4746-a851-c0bd16dd9446",
+        "businessPhones": [
+          "+1 (555) 0120"
+        ],
+        "displayName": "Brian Johnson",
+        "givenName": "Brian",
+        "jobTitle": "Senior Software Engineer",
+        "mail": "brian.johnson@company.demo",
+        "mobilePhone": "+1 (555) 0120",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Johnson",
+        "userPrincipalName": "brian.johnson@company.demo",
+        "department": "Engineering",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "3ca0931f-a6c3-4377-b128-797becab05e5",
+        "businessPhones": [
+          "+1 (555) 0121"
+        ],
+        "displayName": "Diego Siciliani",
+        "givenName": "Diego",
+        "jobTitle": "DevOps Engineer",
+        "mail": "diego.siciliani@company.demo",
+        "mobilePhone": "+1 (555) 0121",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Siciliani",
+        "userPrincipalName": "diego.siciliani@company.demo",
+        "department": "Engineering",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "ab7d1b7e-6a84-422c-aad5-48525fcec821",
+        "businessPhones": [
+          "+1 (555) 0122"
+        ],
+        "displayName": "Isaiah Langer",
+        "givenName": "Isaiah",
+        "jobTitle": "Software Engineer",
+        "mail": "isaiah.langer@company.demo",
+        "mobilePhone": "+1 (555) 0122",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Langer",
+        "userPrincipalName": "isaiah.langer@company.demo",
+        "department": "Engineering",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "f1e11a33-5906-4410-846e-b42a9f338db8",
+        "businessPhones": [
+          "+1 (555) 0123"
+        ],
+        "displayName": "Pradeep Gupta",
+        "givenName": "Pradeep",
+        "jobTitle": "Software Engineer",
+        "mail": "pradeep.gupta@company.demo",
+        "mobilePhone": "+1 (555) 0123",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Gupta",
+        "userPrincipalName": "pradeep.gupta@company.demo",
+        "department": "Engineering",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "6fb547ed-9d10-4369-ac9e-3d58c098ab9e",
+        "businessPhones": [
+          "+1 (555) 0124"
+        ],
+        "displayName": "Rachelle Cormier",
+        "givenName": "Rachelle",
+        "jobTitle": "QA Engineer",
+        "mail": "rachelle.cormier@company.demo",
+        "mobilePhone": "+1 (555) 0124",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Cormier",
+        "userPrincipalName": "rachelle.cormier@company.demo",
+        "department": "Engineering",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "44e7c146-bc16-41c3-9b2c-6a07f852eecd",
+        "businessPhones": [
+          "+1 (555) 0125"
+        ],
+        "displayName": "Marcus Chen",
+        "givenName": "Marcus",
+        "jobTitle": "Data Scientist",
+        "mail": "marcus.chen@company.demo",
+        "mobilePhone": "+1 (555) 0125",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Chen",
+        "userPrincipalName": "marcus.chen@company.demo",
+        "department": "Engineering",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "54432f7e-2a63-4241-988c-08d810357f49",
+        "businessPhones": [
+          "+1 (555) 0126"
+        ],
+        "displayName": "David Anderson",
+        "givenName": "David",
+        "jobTitle": "Systems Architect",
+        "mail": "david.anderson@company.demo",
+        "mobilePhone": "+1 (555) 0126",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Anderson",
+        "userPrincipalName": "david.anderson@company.demo",
+        "department": "Engineering",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "c7df2760-2c81-4ef7-b578-5b5392b571df"
+          }
+        ]
+      },
+      {
+        "id": "5cecd20a-e695-4b73-9cb3-8a9293f938ad",
+        "businessPhones": [
+          "+1 (555) 0127"
+        ],
+        "displayName": "Robert Miller",
+        "givenName": "Robert",
+        "jobTitle": "Senior DevOps Engineer",
+        "mail": "robert.miller@company.demo",
+        "mobilePhone": "+1 (555) 0127",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Miller",
+        "userPrincipalName": "robert.miller@company.demo",
+        "department": "Engineering",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "e03df552-8afa-404c-b5b8-e22deb1959c9",
+        "businessPhones": [
+          "+1 (555) 0128"
+        ],
+        "displayName": "James Rodriguez",
+        "givenName": "James",
+        "jobTitle": "Cloud Solutions Architect",
+        "mail": "james.rodriguez@company.demo",
+        "mobilePhone": "+1 (555) 0128",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Rodriguez",
+        "userPrincipalName": "james.rodriguez@company.demo",
+        "department": "Engineering",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "c7df2760-2c81-4ef7-b578-5b5392b571df"
+          }
+        ]
+      },
+      {
+        "id": "5fdb27b3-f106-456a-8142-6f1b155dc19c",
+        "businessPhones": [
+          "+1 (555) 0129"
+        ],
+        "displayName": "Daniel Anderson",
+        "givenName": "Daniel",
+        "jobTitle": "Frontend Developer",
+        "mail": "daniel.anderson@company.demo",
+        "mobilePhone": "+1 (555) 0129",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Anderson",
+        "userPrincipalName": "daniel.anderson@company.demo",
+        "department": "Engineering",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "a07ac2c8-ef4e-4f7c-b6c8-9cbabecb50bb",
+        "businessPhones": [
+          "+1 (555) 0130"
+        ],
+        "displayName": "Matthew Harris",
+        "givenName": "Matthew",
+        "jobTitle": "Backend Developer",
+        "mail": "matthew.harris@company.demo",
+        "mobilePhone": "+1 (555) 0130",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Harris",
+        "userPrincipalName": "matthew.harris@company.demo",
+        "department": "Engineering",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "432a767b-2591-4729-8efc-6d1e4a52c971",
+        "businessPhones": [
+          "+1 (555) 0131"
+        ],
+        "displayName": "Mark Clark",
+        "givenName": "Mark",
+        "jobTitle": "Machine Learning Engineer",
+        "mail": "mark.clark@company.demo",
+        "mobilePhone": "+1 (555) 0131",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Clark",
+        "userPrincipalName": "mark.clark@company.demo",
+        "department": "Engineering",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "50dd31a9-3e4c-4385-a6ff-909efc79575d",
+        "businessPhones": [
+          "+1 (555) 0132"
+        ],
+        "displayName": "Kevin Hall",
+        "givenName": "Kevin",
+        "jobTitle": "Mobile Developer",
+        "mail": "kevin.hall@company.demo",
+        "mobilePhone": "+1 (555) 0132",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Hall",
+        "userPrincipalName": "kevin.hall@company.demo",
+        "department": "Engineering",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "2e2a4656-c4ae-402d-a54a-a8b4da645067",
+        "businessPhones": [
+          "+1 (555) 0133"
+        ],
+        "displayName": "Ryan Cooper",
+        "givenName": "Ryan",
+        "jobTitle": "Software Engineer",
+        "mail": "ryan.cooper@company.demo",
+        "mobilePhone": "+1 (555) 0133",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Cooper",
+        "userPrincipalName": "ryan.cooper@company.demo",
+        "department": "Engineering",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "b8142301-a3ee-4a30-bb09-9b0f44a738f7",
+        "businessPhones": [
+          "+1 (555) 0134"
+        ],
+        "displayName": "Justin Ward",
+        "givenName": "Justin",
+        "jobTitle": "Full Stack Developer",
+        "mail": "justin.ward@company.demo",
+        "mobilePhone": "+1 (555) 0134",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Ward",
+        "userPrincipalName": "justin.ward@company.demo",
+        "department": "Engineering",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "6dd02de7-078d-465a-87bb-d8abb2c7d5fa",
+        "businessPhones": [
+          "+1 (555) 0135"
+        ],
+        "displayName": "Brandon Russell",
+        "givenName": "Brandon",
+        "jobTitle": "Software Engineer",
+        "mail": "brandon.russell@company.demo",
+        "mobilePhone": "+1 (555) 0135",
+        "officeLocation": "San Francisco - Floor 5",
+        "preferredLanguage": "en-US",
+        "surname": "Russell",
+        "userPrincipalName": "brandon.russell@company.demo",
+        "department": "Engineering",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "f9f6b3d2-1fe8-451c-b3f9-b615f9981987",
+        "businessPhones": [
+          "+1 (555) 0136"
+        ],
+        "displayName": "Adam Bell",
+        "givenName": "Adam",
+        "jobTitle": "Platform Engineer",
+        "mail": "adam.bell@company.demo",
+        "mobilePhone": "+1 (555) 0136",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Bell",
+        "userPrincipalName": "adam.bell@company.demo",
+        "department": "Engineering",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "15fddab8-5adf-43e6-9b6a-6ba791e05c4a",
+        "businessPhones": [
+          "+1 (555) 0137"
+        ],
+        "displayName": "Eric Butler",
+        "givenName": "Eric",
+        "jobTitle": "Site Reliability Engineer",
+        "mail": "eric.butler@company.demo",
+        "mobilePhone": "+1 (555) 0137",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Butler",
+        "userPrincipalName": "eric.butler@company.demo",
+        "department": "Engineering",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "1800ac1e-d74f-4a58-8e03-fb9379aae2ca",
+        "businessPhones": [
+          "+1 (555) 0138"
+        ],
+        "displayName": "Gregory Coleman",
+        "givenName": "Gregory",
+        "jobTitle": "Software Engineer",
+        "mail": "gregory.coleman@company.demo",
+        "mobilePhone": "+1 (555) 0138",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Coleman",
+        "userPrincipalName": "gregory.coleman@company.demo",
+        "department": "Engineering",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "76ae1896-c446-46b9-a1c2-bb755165f628",
+        "businessPhones": [
+          "+1 (555) 0139"
+        ],
+        "displayName": "Jonathan Perry",
+        "givenName": "Jonathan",
+        "jobTitle": "API Developer",
+        "mail": "jonathan.perry@company.demo",
+        "mobilePhone": "+1 (555) 0139",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Perry",
+        "userPrincipalName": "jonathan.perry@company.demo",
+        "department": "Engineering",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "c49c3b95-32d6-48c3-b792-174d8b78307b",
+        "businessPhones": [
+          "+1 (555) 0140"
+        ],
+        "displayName": "Nicholas Powell",
+        "givenName": "Nicholas",
+        "jobTitle": "Software Engineer",
+        "mail": "nicholas.powell@company.demo",
+        "mobilePhone": "+1 (555) 0140",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Powell",
+        "userPrincipalName": "nicholas.powell@company.demo",
+        "department": "Engineering",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "9e5371d7-5ad7-452b-adf2-c83bbf3a2b48",
+        "businessPhones": [
+          "+1 (555) 0141"
+        ],
+        "displayName": "Samuel Long",
+        "givenName": "Samuel",
+        "jobTitle": "Infrastructure Engineer",
+        "mail": "samuel.long@company.demo",
+        "mobilePhone": "+1 (555) 0141",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Long",
+        "userPrincipalName": "samuel.long@company.demo",
+        "department": "Engineering",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "a8721ab9-8d67-4079-8402-7f815267ee9a",
+        "businessPhones": [
+          "+1 (555) 0142"
+        ],
+        "displayName": "Tyler Patterson",
+        "givenName": "Tyler",
+        "jobTitle": "QA Automation Engineer",
+        "mail": "tyler.patterson@company.demo",
+        "mobilePhone": "+1 (555) 0142",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Patterson",
+        "userPrincipalName": "tyler.patterson@company.demo",
+        "department": "Engineering",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "e19ac325-1cf9-42b0-b76b-46f487ca06c3",
+        "businessPhones": [
+          "+1 (555) 0143"
+        ],
+        "displayName": "Austin Hughes",
+        "givenName": "Austin",
+        "jobTitle": "Software Engineer",
+        "mail": "austin.hughes@company.demo",
+        "mobilePhone": "+1 (555) 0143",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Hughes",
+        "userPrincipalName": "austin.hughes@company.demo",
+        "department": "Engineering",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "a98ed433-9f5d-42d4-b325-920af0c0486a",
+        "businessPhones": [
+          "+1 (555) 0144"
+        ],
+        "displayName": "Enrico Cattaneo",
+        "givenName": "Enrico",
+        "jobTitle": "Sales Manager",
+        "mail": "enrico.cattaneo@company.demo",
+        "mobilePhone": "+1 (555) 0144",
+        "officeLocation": "Chicago - Floor 2",
+        "preferredLanguage": "en-US",
+        "surname": "Cattaneo",
+        "userPrincipalName": "enrico.cattaneo@company.demo",
+        "department": "Sales",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "73abdd30-408a-439e-8eaa-318d41f5eff0",
+        "businessPhones": [
+          "+1 (555) 0145"
+        ],
+        "displayName": "Joni Sherman",
+        "givenName": "Joni",
+        "jobTitle": "Sales Representative",
+        "mail": "joni.sherman@company.demo",
+        "mobilePhone": "+1 (555) 0145",
+        "officeLocation": "Chicago - Floor 2",
+        "preferredLanguage": "en-US",
+        "surname": "Sherman",
+        "userPrincipalName": "joni.sherman@company.demo",
+        "department": "Sales",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "2390e2ff-9416-4cae-a586-eab2fdf38bdd",
+        "businessPhones": [
+          "+1 (555) 0146"
+        ],
+        "displayName": "Raul Razo",
+        "givenName": "Raul",
+        "jobTitle": "Sales Representative",
+        "mail": "raul.razo@company.demo",
+        "mobilePhone": "+1 (555) 0146",
+        "officeLocation": "Chicago - Floor 2",
+        "preferredLanguage": "en-US",
+        "surname": "Razo",
+        "userPrincipalName": "raul.razo@company.demo",
+        "department": "Sales",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "548f58fb-c013-4507-b8e0-d63f9441296b",
+        "businessPhones": [
+          "+1 (555) 0147"
+        ],
+        "displayName": "Tiffany Reed",
+        "givenName": "Tiffany",
+        "jobTitle": "Customer Success Manager",
+        "mail": "tiffany.reed@company.demo",
+        "mobilePhone": "+1 (555) 0147",
+        "officeLocation": "San Francisco - Floor 5",
+        "preferredLanguage": "en-US",
+        "surname": "Reed",
+        "userPrincipalName": "tiffany.reed@company.demo",
+        "department": "Sales",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "3597dbbe-b156-487d-99cb-82d862783b6b",
+        "businessPhones": [
+          "+1 (555) 0148"
+        ],
+        "displayName": "Steven Lee",
+        "givenName": "Steven",
+        "jobTitle": "Solutions Engineer",
+        "mail": "steven.lee@company.demo",
+        "mobilePhone": "+1 (555) 0148",
+        "officeLocation": "San Francisco - Floor 5",
+        "preferredLanguage": "en-US",
+        "surname": "Lee",
+        "userPrincipalName": "steven.lee@company.demo",
+        "department": "Sales",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "05d04020-3f7c-4a2a-a9f6-27e2882a07d5",
+        "businessPhones": [
+          "+1 (555) 0149"
+        ],
+        "displayName": "Dorothy Martin",
+        "givenName": "Dorothy",
+        "jobTitle": "Sales Development Representative",
+        "mail": "dorothy.martin@company.demo",
+        "mobilePhone": "+1 (555) 0149",
+        "officeLocation": "Chicago - Floor 2",
+        "preferredLanguage": "en-US",
+        "surname": "Martin",
+        "userPrincipalName": "dorothy.martin@company.demo",
+        "department": "Sales",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "21e56746-09b1-4d0e-92cd-aa0c76deee24",
+        "businessPhones": [
+          "+1 (555) 0150"
+        ],
+        "displayName": "Andrew Scott",
+        "givenName": "Andrew",
+        "jobTitle": "Account Executive",
+        "mail": "andrew.scott@company.demo",
+        "mobilePhone": "+1 (555) 0150",
+        "officeLocation": "Chicago - Floor 2",
+        "preferredLanguage": "en-US",
+        "surname": "Scott",
+        "userPrincipalName": "andrew.scott@company.demo",
+        "department": "Sales",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "a8351b95-f337-4341-aa14-c565b4ecaaf9",
+        "businessPhones": [
+          "+1 (555) 0151"
+        ],
+        "displayName": "Angela Green",
+        "givenName": "Angela",
+        "jobTitle": "Sales Representative",
+        "mail": "angela.green@company.demo",
+        "mobilePhone": "+1 (555) 0151",
+        "officeLocation": "New York - Floor 3",
+        "preferredLanguage": "en-US",
+        "surname": "Green",
+        "userPrincipalName": "angela.green@company.demo",
+        "department": "Sales",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "30f964d0-6371-411f-9c9d-ec23872f9b0d",
+        "businessPhones": [
+          "+1 (555) 0152"
+        ],
+        "displayName": "Gerald Adams",
+        "givenName": "Gerald",
+        "jobTitle": "Regional Sales Manager",
+        "mail": "gerald.adams@company.demo",
+        "mobilePhone": "+1 (555) 0152",
+        "officeLocation": "New York - Floor 3",
+        "preferredLanguage": "en-US",
+        "surname": "Adams",
+        "userPrincipalName": "gerald.adams@company.demo",
+        "department": "Sales",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "71fbf251-add2-4450-ac41-251ac8e93725",
+        "businessPhones": [
+          "+1 (555) 0153"
+        ],
+        "displayName": "Keith Nelson",
+        "givenName": "Keith",
+        "jobTitle": "Sales Representative",
+        "mail": "keith.nelson@company.demo",
+        "mobilePhone": "+1 (555) 0153",
+        "officeLocation": "Chicago - Floor 2",
+        "preferredLanguage": "en-US",
+        "surname": "Nelson",
+        "userPrincipalName": "keith.nelson@company.demo",
+        "department": "Sales",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "313e8311-ea82-40ab-9a30-04a4f6ca8ccb",
+        "businessPhones": [
+          "+1 (555) 0154"
+        ],
+        "displayName": "Rachel Carter",
+        "givenName": "Rachel",
+        "jobTitle": "Inside Sales Representative",
+        "mail": "rachel.carter@company.demo",
+        "mobilePhone": "+1 (555) 0154",
+        "officeLocation": "Chicago - Floor 2",
+        "preferredLanguage": "en-US",
+        "surname": "Carter",
+        "userPrincipalName": "rachel.carter@company.demo",
+        "department": "Sales",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "7cc2fe98-132e-4eec-bbab-01d3c2a6ae4a",
+        "businessPhones": [
+          "+1 (555) 0155"
+        ],
+        "displayName": "Sean Mitchell",
+        "givenName": "Sean",
+        "jobTitle": "Enterprise Account Executive",
+        "mail": "sean.mitchell@company.demo",
+        "mobilePhone": "+1 (555) 0155",
+        "officeLocation": "San Francisco - Floor 5",
+        "preferredLanguage": "en-US",
+        "surname": "Mitchell",
+        "userPrincipalName": "sean.mitchell@company.demo",
+        "department": "Sales",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "a94195cf-2642-40f2-830a-0d881fda5432",
+        "businessPhones": [
+          "+1 (555) 0156"
+        ],
+        "displayName": "Christie Cline",
+        "givenName": "Christie",
+        "jobTitle": "Marketing Director",
+        "mail": "christie.cline@company.demo",
+        "mobilePhone": "+1 (555) 0156",
+        "officeLocation": "New York - Floor 3",
+        "preferredLanguage": "en-US",
+        "surname": "Cline",
+        "userPrincipalName": "christie.cline@company.demo",
+        "department": "Marketing",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "77053ca0-3e96-492f-879c-67c80fd44724",
+        "businessPhones": [
+          "+1 (555) 0157"
+        ],
+        "displayName": "Johanna Lorenz",
+        "givenName": "Johanna",
+        "jobTitle": "Senior Marketing Manager",
+        "mail": "johanna.lorenz@company.demo",
+        "mobilePhone": "+1 (555) 0157",
+        "officeLocation": "New York - Floor 3",
+        "preferredLanguage": "en-US",
+        "surname": "Lorenz",
+        "userPrincipalName": "johanna.lorenz@company.demo",
+        "department": "Marketing",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "5f4eb11c-3e0f-49fa-a704-6556c0bae6b6",
+        "businessPhones": [
+          "+1 (555) 0158"
+        ],
+        "displayName": "Miriam Graham",
+        "givenName": "Miriam",
+        "jobTitle": "Marketing Coordinator",
+        "mail": "miriam.graham@company.demo",
+        "mobilePhone": "+1 (555) 0158",
+        "officeLocation": "New York - Floor 3",
+        "preferredLanguage": "en-US",
+        "surname": "Graham",
+        "userPrincipalName": "miriam.graham@company.demo",
+        "department": "Marketing",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "9fdc15bd-27b7-4da9-83be-c489a0fc1c2e",
+        "businessPhones": [
+          "+1 (555) 0159"
+        ],
+        "displayName": "Rebecca Wilson",
+        "givenName": "Rebecca",
+        "jobTitle": "Content Marketing Specialist",
+        "mail": "rebecca.wilson@company.demo",
+        "mobilePhone": "+1 (555) 0159",
+        "officeLocation": "New York - Floor 3",
+        "preferredLanguage": "en-US",
+        "surname": "Wilson",
+        "userPrincipalName": "rebecca.wilson@company.demo",
+        "department": "Marketing",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "5a8380dc-869c-45c5-b695-0f830a71cf36",
+        "businessPhones": [
+          "+1 (555) 0160"
+        ],
+        "displayName": "Barbara Thomas",
+        "givenName": "Barbara",
+        "jobTitle": "Social Media Manager",
+        "mail": "barbara.thomas@company.demo",
+        "mobilePhone": "+1 (555) 0160",
+        "officeLocation": "New York - Floor 3",
+        "preferredLanguage": "en-US",
+        "surname": "Thomas",
+        "userPrincipalName": "barbara.thomas@company.demo",
+        "department": "Marketing",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "6edef02c-7c70-44c8-93e0-f2168361eed3",
+        "businessPhones": [
+          "+1 (555) 0161"
+        ],
+        "displayName": "Sandra Robinson",
+        "givenName": "Sandra",
+        "jobTitle": "Event Coordinator",
+        "mail": "sandra.robinson@company.demo",
+        "mobilePhone": "+1 (555) 0161",
+        "officeLocation": "New York - Floor 3",
+        "preferredLanguage": "en-US",
+        "surname": "Robinson",
+        "userPrincipalName": "sandra.robinson@company.demo",
+        "department": "Marketing",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "97acb17b-61ed-4eb6-83d3-f41608d461fe",
+        "businessPhones": [
+          "+1 (555) 0162"
+        ],
+        "displayName": "Laura King",
+        "givenName": "Laura",
+        "jobTitle": "Marketing Analyst",
+        "mail": "laura.king@company.demo",
+        "mobilePhone": "+1 (555) 0162",
+        "officeLocation": "New York - Floor 3",
+        "preferredLanguage": "en-US",
+        "surname": "King",
+        "userPrincipalName": "laura.king@company.demo",
+        "department": "Marketing",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "75a56813-3b2c-4e91-9889-384ff52ea236",
+        "businessPhones": [
+          "+1 (555) 0163"
+        ],
+        "displayName": "Sharon Wright",
+        "givenName": "Sharon",
+        "jobTitle": "Brand Manager",
+        "mail": "sharon.wright@company.demo",
+        "mobilePhone": "+1 (555) 0163",
+        "officeLocation": "New York - Floor 3",
+        "preferredLanguage": "en-US",
+        "surname": "Wright",
+        "userPrincipalName": "sharon.wright@company.demo",
+        "department": "Marketing",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "5aa355b0-2b87-4592-b233-dffa8818ac62",
+        "businessPhones": [
+          "+1 (555) 0164"
+        ],
+        "displayName": "Kimberly Hill",
+        "givenName": "Kimberly",
+        "jobTitle": "Digital Marketing Specialist",
+        "mail": "kimberly.hill@company.demo",
+        "mobilePhone": "+1 (555) 0164",
+        "officeLocation": "New York - Floor 3",
+        "preferredLanguage": "en-US",
+        "surname": "Hill",
+        "userPrincipalName": "kimberly.hill@company.demo",
+        "department": "Marketing",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "fe37ce0a-1874-43cd-9cc1-2f68770409ae",
+        "businessPhones": [
+          "+1 (555) 0165"
+        ],
+        "displayName": "Deborah Lopez",
+        "givenName": "Deborah",
+        "jobTitle": "Marketing Operations Coordinator",
+        "mail": "deborah.lopez@company.demo",
+        "mobilePhone": "+1 (555) 0165",
+        "officeLocation": "New York - Floor 3",
+        "preferredLanguage": "en-US",
+        "surname": "Lopez",
+        "userPrincipalName": "deborah.lopez@company.demo",
+        "department": "Marketing",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "8eb8914d-0341-4db3-8ce8-e15aa68da10c",
+        "businessPhones": [
+          "+1 (555) 0166"
+        ],
+        "displayName": "Debra Berger",
+        "givenName": "Debra",
+        "jobTitle": "Senior Financial Analyst",
+        "mail": "debra.berger@company.demo",
+        "mobilePhone": "+1 (555) 0166",
+        "officeLocation": "Seattle - HQ",
+        "preferredLanguage": "en-US",
+        "surname": "Berger",
+        "userPrincipalName": "debra.berger@company.demo",
+        "department": "Finance",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "f2e9a771-0bd9-4381-82c0-1a8f66e47564",
+        "businessPhones": [
+          "+1 (555) 0167"
+        ],
+        "displayName": "Lynne Robbins",
+        "givenName": "Lynne",
+        "jobTitle": "Senior Accountant",
+        "mail": "lynne.robbins@company.demo",
+        "mobilePhone": "+1 (555) 0167",
+        "officeLocation": "Seattle - HQ",
+        "preferredLanguage": "en-US",
+        "surname": "Robbins",
+        "userPrincipalName": "lynne.robbins@company.demo",
+        "department": "Finance",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "45cc53e7-5a74-4d70-a403-7876741c9cab",
+        "businessPhones": [
+          "+1 (555) 0168"
+        ],
+        "displayName": "Megan Bowen",
+        "givenName": "Megan",
+        "jobTitle": "Auditor",
+        "mail": "megan.bowen@company.demo",
+        "mobilePhone": "+1 (555) 0168",
+        "officeLocation": "Seattle - HQ",
+        "preferredLanguage": "en-US",
+        "surname": "Bowen",
+        "userPrincipalName": "megan.bowen@company.demo",
+        "department": "Finance",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "35e90be1-db47-4c7a-b85c-2d158754d83a",
+        "businessPhones": [
+          "+1 (555) 0169"
+        ],
+        "displayName": "Michael Brown",
+        "givenName": "Michael",
+        "jobTitle": "Business Analyst",
+        "mail": "michael.brown@company.demo",
+        "mobilePhone": "+1 (555) 0169",
+        "officeLocation": "Chicago - Floor 2",
+        "preferredLanguage": "en-US",
+        "surname": "Brown",
+        "userPrincipalName": "michael.brown@company.demo",
+        "department": "Finance",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "9129fe7e-f16f-4729-8783-bf99119a9d8f",
+        "businessPhones": [
+          "+1 (555) 0170"
+        ],
+        "displayName": "Ashley Lewis",
+        "givenName": "Ashley",
+        "jobTitle": "Payroll Specialist",
+        "mail": "ashley.lewis@company.demo",
+        "mobilePhone": "+1 (555) 0170",
+        "officeLocation": "Seattle - HQ",
+        "preferredLanguage": "en-US",
+        "surname": "Lewis",
+        "userPrincipalName": "ashley.lewis@company.demo",
+        "department": "Finance",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "5edd5e69-a84f-42a2-ab8a-a2dbbceb77c6",
+        "businessPhones": [
+          "+1 (555) 0171"
+        ],
+        "displayName": "Amanda Barnes",
+        "givenName": "Amanda",
+        "jobTitle": "Financial Controller",
+        "mail": "amanda.barnes@company.demo",
+        "mobilePhone": "+1 (555) 0171",
+        "officeLocation": "Seattle - HQ",
+        "preferredLanguage": "en-US",
+        "surname": "Barnes",
+        "userPrincipalName": "amanda.barnes@company.demo",
+        "department": "Finance",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          },
+          {
+            "disabledPlans": [],
+            "skuId": "f30db892-07e9-47e9-837c-80727f46fd3d"
+          }
+        ]
+      },
+      {
+        "id": "a72586b1-0923-4950-8861-7342a6030d03",
+        "businessPhones": [
+          "+1 (555) 0172"
+        ],
+        "displayName": "Eugene Ross",
+        "givenName": "Eugene",
+        "jobTitle": "Accountant",
+        "mail": "eugene.ross@company.demo",
+        "mobilePhone": "+1 (555) 0172",
+        "officeLocation": "Seattle - HQ",
+        "preferredLanguage": "en-US",
+        "surname": "Ross",
+        "userPrincipalName": "eugene.ross@company.demo",
+        "department": "Finance",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "162e98a2-4587-440d-85ca-79dde7907c74",
+        "businessPhones": [
+          "+1 (555) 0173"
+        ],
+        "displayName": "Stephanie Cook",
+        "givenName": "Stephanie",
+        "jobTitle": "Budget Analyst",
+        "mail": "stephanie.cook@company.demo",
+        "mobilePhone": "+1 (555) 0173",
+        "officeLocation": "Seattle - HQ",
+        "preferredLanguage": "en-US",
+        "surname": "Cook",
+        "userPrincipalName": "stephanie.cook@company.demo",
+        "department": "Finance",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "95c47255-8b93-470b-929c-7102a72497f1",
+        "businessPhones": [
+          "+1 (555) 0174"
+        ],
+        "displayName": "Jeremy Morgan",
+        "givenName": "Jeremy",
+        "jobTitle": "Treasury Analyst",
+        "mail": "jeremy.morgan@company.demo",
+        "mobilePhone": "+1 (555) 0174",
+        "officeLocation": "Seattle - HQ",
+        "preferredLanguage": "en-US",
+        "surname": "Morgan",
+        "userPrincipalName": "jeremy.morgan@company.demo",
+        "department": "Finance",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "bb7d60d2-4b82-4b95-aff8-6d0861e9ba25",
+        "businessPhones": [
+          "+1 (555) 0175"
+        ],
+        "displayName": "Melissa Bell",
+        "givenName": "Melissa",
+        "jobTitle": "Accounts Payable Specialist",
+        "mail": "melissa.bell@company.demo",
+        "mobilePhone": "+1 (555) 0175",
+        "officeLocation": "Seattle - HQ",
+        "preferredLanguage": "en-US",
+        "surname": "Bell",
+        "userPrincipalName": "melissa.bell@company.demo",
+        "department": "Finance",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "f7fdc371-83a7-4be4-83b2-c36018bbd0f6",
+        "businessPhones": [
+          "+1 (555) 0176"
+        ],
+        "displayName": "Bianca Pisani",
+        "givenName": "Bianca",
+        "jobTitle": "VP of Human Resources",
+        "mail": "bianca.pisani@company.demo",
+        "mobilePhone": "+1 (555) 0176",
+        "officeLocation": "Seattle - HQ",
+        "preferredLanguage": "en-US",
+        "surname": "Pisani",
+        "userPrincipalName": "bianca.pisani@company.demo",
+        "department": "Human Resources",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "a13307a7-0b40-438c-965c-2da49126e5fb",
+        "businessPhones": [
+          "+1 (555) 0177"
+        ],
+        "displayName": "Henrietta Mueller",
+        "givenName": "Henrietta",
+        "jobTitle": "HR Specialist",
+        "mail": "henrietta.mueller@company.demo",
+        "mobilePhone": "+1 (555) 0177",
+        "officeLocation": "Seattle - HQ",
+        "preferredLanguage": "en-US",
+        "surname": "Mueller",
+        "userPrincipalName": "henrietta.mueller@company.demo",
+        "department": "Human Resources",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "a20e7d98-ed76-4e17-a053-95c83ad06e19",
+        "businessPhones": [
+          "+1 (555) 0178"
+        ],
+        "displayName": "Lisa Garcia",
+        "givenName": "Lisa",
+        "jobTitle": "Training Coordinator",
+        "mail": "lisa.garcia@company.demo",
+        "mobilePhone": "+1 (555) 0178",
+        "officeLocation": "Seattle - HQ",
+        "preferredLanguage": "en-US",
+        "surname": "Garcia",
+        "userPrincipalName": "lisa.garcia@company.demo",
+        "department": "Human Resources",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "27b6b8ce-3a12-4269-8261-bcfb8b82c9a1",
+        "businessPhones": [
+          "+1 (555) 0179"
+        ],
+        "displayName": "Susan White",
+        "givenName": "Susan",
+        "jobTitle": "Recruiter",
+        "mail": "susan.white@company.demo",
+        "mobilePhone": "+1 (555) 0179",
+        "officeLocation": "Seattle - HQ",
+        "preferredLanguage": "en-US",
+        "surname": "White",
+        "userPrincipalName": "susan.white@company.demo",
+        "department": "Human Resources",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "5f0b64a9-aa17-46db-84f5-4eb12e7ea04e",
+        "businessPhones": [
+          "+1 (555) 0180"
+        ],
+        "displayName": "Nicole Rivera",
+        "givenName": "Nicole",
+        "jobTitle": "HR Generalist",
+        "mail": "nicole.rivera@company.demo",
+        "mobilePhone": "+1 (555) 0180",
+        "officeLocation": "Seattle - HQ",
+        "preferredLanguage": "en-US",
+        "surname": "Rivera",
+        "userPrincipalName": "nicole.rivera@company.demo",
+        "department": "Human Resources",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "18a4b9e3-dc4f-4e25-8c9a-7df9f7f9861e",
+        "businessPhones": [
+          "+1 (555) 0181"
+        ],
+        "displayName": "Heather Sanders",
+        "givenName": "Heather",
+        "jobTitle": "Benefits Administrator",
+        "mail": "heather.sanders@company.demo",
+        "mobilePhone": "+1 (555) 0181",
+        "officeLocation": "Seattle - HQ",
+        "preferredLanguage": "en-US",
+        "surname": "Sanders",
+        "userPrincipalName": "heather.sanders@company.demo",
+        "department": "Human Resources",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "924742a0-e2e6-468f-ab2a-ab84fc650ce4",
+        "businessPhones": [
+          "+1 (555) 0182"
+        ],
+        "displayName": "Pamela Price",
+        "givenName": "Pamela",
+        "jobTitle": "HR Coordinator",
+        "mail": "pamela.price@company.demo",
+        "mobilePhone": "+1 (555) 0182",
+        "officeLocation": "Seattle - HQ",
+        "preferredLanguage": "en-US",
+        "surname": "Price",
+        "userPrincipalName": "pamela.price@company.demo",
+        "department": "Human Resources",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "ded469d7-c1b4-4262-be8a-93ad6df4f1a3",
+        "businessPhones": [
+          "+1 (555) 0183"
+        ],
+        "displayName": "Frances Bennett",
+        "givenName": "Frances",
+        "jobTitle": "Talent Acquisition Specialist",
+        "mail": "frances.bennett@company.demo",
+        "mobilePhone": "+1 (555) 0183",
+        "officeLocation": "Seattle - HQ",
+        "preferredLanguage": "en-US",
+        "surname": "Bennett",
+        "userPrincipalName": "frances.bennett@company.demo",
+        "department": "Human Resources",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "e2fe301a-6f56-42f2-b292-873d514c759d",
+        "businessPhones": [
+          "+1 (555) 0184"
+        ],
+        "displayName": "Emily Braun",
+        "givenName": "Emily",
+        "jobTitle": "Product Manager",
+        "mail": "emily.braun@company.demo",
+        "mobilePhone": "+1 (555) 0184",
+        "officeLocation": "San Francisco - Floor 5",
+        "preferredLanguage": "en-US",
+        "surname": "Braun",
+        "userPrincipalName": "emily.braun@company.demo",
+        "department": "Product",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "5ff49d16-ccaf-4597-80ee-ab70a4f3a6e6",
+        "businessPhones": [
+          "+1 (555) 0185"
+        ],
+        "displayName": "Lidia Holloway",
+        "givenName": "Lidia",
+        "jobTitle": "Product Designer",
+        "mail": "lidia.holloway@company.demo",
+        "mobilePhone": "+1 (555) 0185",
+        "officeLocation": "San Francisco - Floor 5",
+        "preferredLanguage": "en-US",
+        "surname": "Holloway",
+        "userPrincipalName": "lidia.holloway@company.demo",
+        "department": "Product",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "1aaf3813-32ee-453b-bb30-23601f442f1f",
+        "businessPhones": [
+          "+1 (555) 0186"
+        ],
+        "displayName": "Sarah Kim",
+        "givenName": "Sarah",
+        "jobTitle": "UX Researcher",
+        "mail": "sarah.kim@company.demo",
+        "mobilePhone": "+1 (555) 0186",
+        "officeLocation": "San Francisco - Floor 5",
+        "preferredLanguage": "en-US",
+        "surname": "Kim",
+        "userPrincipalName": "sarah.kim@company.demo",
+        "department": "Product",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "467e8761-6f96-42ef-8c50-39d04fa9b0f3",
+        "businessPhones": [
+          "+1 (555) 0187"
+        ],
+        "displayName": "Nancy Garcia",
+        "givenName": "Nancy",
+        "jobTitle": "Product Manager",
+        "mail": "nancy.garcia@company.demo",
+        "mobilePhone": "+1 (555) 0187",
+        "officeLocation": "San Francisco - Floor 5",
+        "preferredLanguage": "en-US",
+        "surname": "Garcia",
+        "userPrincipalName": "nancy.garcia@company.demo",
+        "department": "Product",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "49dcdcc8-a103-43d5-8d37-df7de52008e2",
+        "businessPhones": [
+          "+1 (555) 0188"
+        ],
+        "displayName": "Carol Allen",
+        "givenName": "Carol",
+        "jobTitle": "Technical Writer",
+        "mail": "carol.allen@company.demo",
+        "mobilePhone": "+1 (555) 0188",
+        "officeLocation": "Seattle - Building 2",
+        "preferredLanguage": "en-US",
+        "surname": "Allen",
+        "userPrincipalName": "carol.allen@company.demo",
+        "department": "Product",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "5f78cccd-588c-4e8f-917b-093f84b6d4ae",
+        "businessPhones": [
+          "+1 (555) 0189"
+        ],
+        "displayName": "Julia Bennett",
+        "givenName": "Julia",
+        "jobTitle": "Senior Product Designer",
+        "mail": "julia.bennett@company.demo",
+        "mobilePhone": "+1 (555) 0189",
+        "officeLocation": "San Francisco - Floor 5",
+        "preferredLanguage": "en-US",
+        "surname": "Bennett",
+        "userPrincipalName": "julia.bennett@company.demo",
+        "department": "Product",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "15880ec5-d2e2-407e-a8f3-009b884946a3",
+        "businessPhones": [
+          "+1 (555) 0190"
+        ],
+        "displayName": "Katherine Wood",
+        "givenName": "Katherine",
+        "jobTitle": "Product Marketing Manager",
+        "mail": "katherine.wood@company.demo",
+        "mobilePhone": "+1 (555) 0190",
+        "officeLocation": "San Francisco - Floor 5",
+        "preferredLanguage": "en-US",
+        "surname": "Wood",
+        "userPrincipalName": "katherine.wood@company.demo",
+        "department": "Product",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "46ac1c1d-e31e-4166-a1c8-4fae04c8be26",
+        "businessPhones": [
+          "+1 (555) 0191"
+        ],
+        "displayName": "Wayne Moreno",
+        "givenName": "Wayne",
+        "jobTitle": "IT Support Specialist",
+        "mail": "wayne.moreno@company.demo",
+        "mobilePhone": "+1 (555) 0191",
+        "officeLocation": "Seattle - Building 1",
+        "preferredLanguage": "en-US",
+        "surname": "Moreno",
+        "userPrincipalName": "wayne.moreno@company.demo",
+        "department": "IT",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "63286891-18fa-43c3-923d-63f50ed34113",
+        "businessPhones": [
+          "+1 (555) 0192"
+        ],
+        "displayName": "Thomas Martinez",
+        "givenName": "Thomas",
+        "jobTitle": "Network Administrator",
+        "mail": "thomas.martinez@company.demo",
+        "mobilePhone": "+1 (555) 0192",
+        "officeLocation": "Seattle - Building 1",
+        "preferredLanguage": "en-US",
+        "surname": "Martinez",
+        "userPrincipalName": "thomas.martinez@company.demo",
+        "department": "IT",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "1905fb54-4d04-4715-b23b-89b1cdbf673a",
+        "businessPhones": [
+          "+1 (555) 0193"
+        ],
+        "displayName": "Donald Thompson",
+        "givenName": "Donald",
+        "jobTitle": "Database Administrator",
+        "mail": "donald.thompson@company.demo",
+        "mobilePhone": "+1 (555) 0193",
+        "officeLocation": "Seattle - Building 1",
+        "preferredLanguage": "en-US",
+        "surname": "Thompson",
+        "userPrincipalName": "donald.thompson@company.demo",
+        "department": "IT",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "db10e983-84cd-4d86-9974-11f718a0e660",
+        "businessPhones": [
+          "+1 (555) 0194"
+        ],
+        "displayName": "Linda Taylor",
+        "givenName": "Linda",
+        "jobTitle": "Office Manager",
+        "mail": "linda.taylor@company.demo",
+        "mobilePhone": "+1 (555) 0194",
+        "officeLocation": "New York - Floor 3",
+        "preferredLanguage": "en-US",
+        "surname": "Taylor",
+        "userPrincipalName": "linda.taylor@company.demo",
+        "department": "Operations",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "287fb075-f759-4a78-9403-f6e651a519fe",
+        "businessPhones": [
+          "+1 (555) 0195"
+        ],
+        "displayName": "Ruth Hernandez",
+        "givenName": "Ruth",
+        "jobTitle": "Facilities Manager",
+        "mail": "ruth.hernandez@company.demo",
+        "mobilePhone": "+1 (555) 0195",
+        "officeLocation": "Seattle - HQ",
+        "preferredLanguage": "en-US",
+        "surname": "Hernandez",
+        "userPrincipalName": "ruth.hernandez@company.demo",
+        "department": "Operations",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      },
+      {
+        "id": "b1c3fd8b-5963-4425-8c6f-2b52d0e0bdc2",
+        "businessPhones": [
+          "+1 (555) 0196"
+        ],
+        "displayName": "Harold Gray",
+        "givenName": "Harold",
+        "jobTitle": "IT Administrator",
+        "mail": "harold.gray@company.demo",
+        "mobilePhone": "+1 (555) 0196",
+        "officeLocation": "Seattle - Building 1",
+        "preferredLanguage": "en-US",
+        "surname": "Gray",
+        "userPrincipalName": "harold.gray@company.demo",
+        "department": "IT",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "c28ae51b-f1ed-4c41-ad19-456ecbdb0318",
+        "businessPhones": [
+          "+1 (555) 0197"
+        ],
+        "displayName": "Jennifer Taylor",
+        "givenName": "Jennifer",
+        "jobTitle": "Compliance Officer",
+        "mail": "jennifer.taylor@company.demo",
+        "mobilePhone": "+1 (555) 0197",
+        "officeLocation": "Seattle - HQ",
+        "preferredLanguage": "en-US",
+        "surname": "Taylor",
+        "userPrincipalName": "jennifer.taylor@company.demo",
+        "department": "Legal",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "c7df2760-2c81-4ef7-b578-5b5392b571df"
+          }
+        ]
+      },
+      {
+        "id": "e573c94e-7e92-421e-be7f-a926bb6cebf4",
+        "businessPhones": [
+          "+1 (555) 0198"
+        ],
+        "displayName": "Mary Wilson",
+        "givenName": "Mary",
+        "jobTitle": "Legal Counsel",
+        "mail": "mary.wilson@company.demo",
+        "mobilePhone": "+1 (555) 0198",
+        "officeLocation": "Seattle - HQ",
+        "preferredLanguage": "en-US",
+        "surname": "Wilson",
+        "userPrincipalName": "mary.wilson@company.demo",
+        "department": "Legal",
+        "accountEnabled": true,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900"
+          }
+        ]
+      },
+      {
+        "id": "7a7e94ea-4280-4500-9edf-e976258c9c36",
+        "businessPhones": [
+          "+1 (555) 0199"
+        ],
+        "displayName": "Donna Walker",
+        "givenName": "Donna",
+        "jobTitle": "Customer Support Representative",
+        "mail": "donna.walker@company.demo",
+        "mobilePhone": "+1 (555) 0199",
+        "officeLocation": "Chicago - Floor 2",
+        "preferredLanguage": "en-US",
+        "surname": "Walker",
+        "userPrincipalName": "donna.walker@company.demo",
+        "department": "Customer Support",
+        "accountEnabled": false,
+        "assignedLicenses": [
+          {
+            "disabledPlans": [],
+            "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e"
+          }
+        ]
+      }
+    ]
+  },
+  "subscribedSkus": {
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#subscribedSkus",
+    "value": [
+      {
+        "id": "48a80680-7326-48cd-9935-b556b81d3a4e_c7df2760-2c81-4ef7-b578-5b5392b571df",
+        "capabilityStatus": "Enabled",
+        "consumedUnits": 28,
+        "prepaidUnits": {
+          "enabled": 50,
+          "suspended": 0,
+          "warning": 0
+        },
+        "servicePlans": [
+          {
+            "servicePlanId": "8c098270-9dd4-4350-9b30-ba4703f3b36b",
+            "servicePlanName": "ADALLOM_S_O365",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "57ff2da0-773e-42df-b2af-ffb7a2317929",
+            "servicePlanName": "TEAMS1",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "efb87545-963c-4e0d-99df-69c6916d9eb0",
+            "servicePlanName": "EXCHANGE_S_ENTERPRISE",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "5dbe027f-2339-4123-9542-606e4d348a72",
+            "servicePlanName": "SHAREPOINTENTERPRISE",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "a23b959c-7ce8-4e57-9140-b90eb88a9e97",
+            "servicePlanName": "SWAY",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "9f431833-0334-42de-a7dc-70aa40db46db",
+            "servicePlanName": "LOCKBOX_ENTERPRISE",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "efb0351d-3b08-4503-993d-383af8de41e3",
+            "servicePlanName": "MCOSTANDARD",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "b1188c4c-1b36-4018-b48b-ee07604f6feb",
+            "servicePlanName": "PREMIUM_ENCRYPTION",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "7547a3fe-08ee-4ccb-b430-5077c5041653",
+            "servicePlanName": "YAMMER_ENTERPRISE",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "43de0ff5-c92c-492b-9116-175376d08c38",
+            "servicePlanName": "OFFICESUBSCRIPTION",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "0feaeb32-d00e-4d66-bd5a-43b5b83db82c",
+            "servicePlanName": "MCOEV",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "e212cbc7-0961-4c40-9825-01117710dcb1",
+            "servicePlanName": "POWER_VIRTUAL_AGENTS_O365_P3",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "c1ec4a95-1f05-45b3-a911-aa3fa01094f5",
+            "servicePlanName": "INTUNE_O365",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "531ee2f8-b1cb-453b-9c21-d2180d014ca5",
+            "servicePlanName": "ATP_ENTERPRISE",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "8e0c0a52-6a6c-4d40-8370-dd62790dcd70",
+            "servicePlanName": "THREAT_INTELLIGENCE",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "b1223a2e-72bc-4236-bb3a-2d8c51377cb3",
+            "servicePlanName": "MICROSOFT_SEARCH",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "2f442157-a11c-46b9-ae5b-6e39ff4e5849",
+            "servicePlanName": "FORMS_PLAN_E5",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "64bfac92-2b17-4482-b5e5-a0304429de3e",
+            "servicePlanName": "KAIZALA_STANDALONE",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "e95bec33-7c88-4a70-8e19-b10bd9d0c014",
+            "servicePlanName": "SHAREPOINTWAC",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "33c4f319-9bdd-48d6-9c4d-410b750a4a5a",
+            "servicePlanName": "POWER_BI_PRO",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "eec0eb4f-6444-4f95-aba0-50c24d67f998",
+            "servicePlanName": "AAD_PREMIUM_P2",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "41781fb2-bc02-4b7c-bd55-b576c07bb09d",
+            "servicePlanName": "AAD_PREMIUM",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "14ab5db5-e6c4-4b20-b4bc-13e36fd2227f",
+            "servicePlanName": "MTP",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "bf28f719-7844-4079-9c78-c1307898e192",
+            "servicePlanName": "PROJECTWORKMANAGEMENT",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          }
+        ],
+        "skuId": "c7df2760-2c81-4ef7-b578-5b5392b571df",
+        "skuPartNumber": "ENTERPRISEPREMIUM",
+        "appliesTo": "User"
+      },
+      {
+        "id": "48a80680-7326-48cd-9935-b556b81d3a4e_6fd2c87f-b296-42f0-b197-1e91e994b900",
+        "capabilityStatus": "Enabled",
+        "consumedUnits": 45,
+        "prepaidUnits": {
+          "enabled": 75,
+          "suspended": 0,
+          "warning": 0
+        },
+        "servicePlans": [
+          {
+            "servicePlanId": "57ff2da0-773e-42df-b2af-ffb7a2317929",
+            "servicePlanName": "TEAMS1",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "efb87545-963c-4e0d-99df-69c6916d9eb0",
+            "servicePlanName": "EXCHANGE_S_ENTERPRISE",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "5dbe027f-2339-4123-9542-606e4d348a72",
+            "servicePlanName": "SHAREPOINTENTERPRISE",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "a23b959c-7ce8-4e57-9140-b90eb88a9e97",
+            "servicePlanName": "SWAY",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "efb0351d-3b08-4503-993d-383af8de41e3",
+            "servicePlanName": "MCOSTANDARD",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "7547a3fe-08ee-4ccb-b430-5077c5041653",
+            "servicePlanName": "YAMMER_ENTERPRISE",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "43de0ff5-c92c-492b-9116-175376d08c38",
+            "servicePlanName": "OFFICESUBSCRIPTION",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "9aaf7827-d63c-4b61-89c3-182f06f82e5c",
+            "servicePlanName": "INTUNE_A",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "c1ec4a95-1f05-45b3-a911-aa3fa01094f5",
+            "servicePlanName": "INTUNE_O365",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "e95bec33-7c88-4a70-8e19-b10bd9d0c014",
+            "servicePlanName": "SHAREPOINTWAC",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "41781fb2-bc02-4b7c-bd55-b576c07bb09d",
+            "servicePlanName": "AAD_PREMIUM",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "b1223a2e-72bc-4236-bb3a-2d8c51377cb3",
+            "servicePlanName": "MICROSOFT_SEARCH",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "2f442157-a11c-46b9-ae5b-6e39ff4e5849",
+            "servicePlanName": "FORMS_PLAN_E3",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "bf28f719-7844-4079-9c78-c1307898e192",
+            "servicePlanName": "PROJECTWORKMANAGEMENT",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          }
+        ],
+        "skuId": "6fd2c87f-b296-42f0-b197-1e91e994b900",
+        "skuPartNumber": "ENTERPRISEPACK",
+        "appliesTo": "User"
+      },
+      {
+        "id": "48a80680-7326-48cd-9935-b556b81d3a4e_18181a46-0d4e-45cd-891e-60aabd171b4e",
+        "capabilityStatus": "Enabled",
+        "consumedUnits": 22,
+        "prepaidUnits": {
+          "enabled": 50,
+          "suspended": 0,
+          "warning": 0
+        },
+        "servicePlans": [
+          {
+            "servicePlanId": "57ff2da0-773e-42df-b2af-ffb7a2317929",
+            "servicePlanName": "TEAMS1",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "9aaf7827-d63c-4b61-89c3-182f06f82e5c",
+            "servicePlanName": "INTUNE_A",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "efb87545-963c-4e0d-99df-69c6916d9eb0",
+            "servicePlanName": "EXCHANGE_S_STANDARD",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "5dbe027f-2339-4123-9542-606e4d348a72",
+            "servicePlanName": "SHAREPOINTSTANDARD",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "a23b959c-7ce8-4e57-9140-b90eb88a9e97",
+            "servicePlanName": "SWAY",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "efb0351d-3b08-4503-993d-383af8de41e3",
+            "servicePlanName": "MCOSTANDARD",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "7547a3fe-08ee-4ccb-b430-5077c5041653",
+            "servicePlanName": "YAMMER_ENTERPRISE",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "43de0ff5-c92c-492b-9116-175376d08c38",
+            "servicePlanName": "OFFICESUBSCRIPTION",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "e95bec33-7c88-4a70-8e19-b10bd9d0c014",
+            "servicePlanName": "SHAREPOINTWAC",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "b1223a2e-72bc-4236-bb3a-2d8c51377cb3",
+            "servicePlanName": "MICROSOFT_SEARCH",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "2f442157-a11c-46b9-ae5b-6e39ff4e5849",
+            "servicePlanName": "FORMS_PLAN_E1",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "bf28f719-7844-4079-9c78-c1307898e192",
+            "servicePlanName": "PROJECTWORKMANAGEMENT",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          }
+        ],
+        "skuId": "18181a46-0d4e-45cd-891e-60aabd171b4e",
+        "skuPartNumber": "STANDARDPACK",
+        "appliesTo": "User"
+      },
+      {
+        "id": "48a80680-7326-48cd-9935-b556b81d3a4e_184efa21-98c3-4e5d-95ab-d07053a96e67",
+        "capabilityStatus": "Enabled",
+        "consumedUnits": 1,
+        "prepaidUnits": {
+          "enabled": 5,
+          "suspended": 0,
+          "warning": 0
+        },
+        "servicePlans": [
+          {
+            "servicePlanId": "8e0c0a52-6a6c-4d40-8370-dd62790dcd70",
+            "servicePlanName": "THREAT_INTELLIGENCE",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "871d91ec-ec1a-452b-a83f-bd76c7d770ef",
+            "servicePlanName": "INFORMATION_BARRIERS",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "9d0c4ee5-e4a1-4625-ab39-d82b619b1a34",
+            "servicePlanName": "M365_ADVANCED_AUDITING",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "efb0351d-3b08-4503-993d-383af8de41e3",
+            "servicePlanName": "INSIDER_RISK",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "64bfac92-2b17-4482-b5e5-a0304429de3e",
+            "servicePlanName": "ML_CLASSIFICATION",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "0f6f87ac-2d4c-4e76-aea1-92dd25e3ca2e",
+            "servicePlanName": "COMMUNICATIONS_COMPLIANCE",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "7321a39e-65f6-4a89-a49b-69ca8020b480",
+            "servicePlanName": "CUSTOMER_KEY",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "d900a2f8-e9e8-4d8c-a2f3-b7e8c9f6a71a",
+            "servicePlanName": "COMMUNICATION_COMPLIANCE",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          }
+        ],
+        "skuId": "184efa21-98c3-4e5d-95ab-d07053a96e67",
+        "skuPartNumber": "M365_E5_COMPLIANCE",
+        "appliesTo": "User"
+      },
+      {
+        "id": "48a80680-7326-48cd-9935-b556b81d3a4e_f30db892-07e9-47e9-837c-80727f46fd3d",
+        "capabilityStatus": "Enabled",
+        "consumedUnits": 2,
+        "prepaidUnits": {
+          "enabled": 10,
+          "suspended": 0,
+          "warning": 0
+        },
+        "servicePlans": [
+          {
+            "servicePlanId": "b1223a2e-72bc-4236-bb3a-2d8c51377cb3",
+            "servicePlanName": "POWER_BI_PRO",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          }
+        ],
+        "skuId": "f30db892-07e9-47e9-837c-80727f46fd3d",
+        "skuPartNumber": "POWER_BI_PRO",
+        "appliesTo": "User"
+      },
+      {
+        "id": "48a80680-7326-48cd-9935-b556b81d3a4e_b05e124f-c7cc-45a0-a6aa-8cf78c946968",
+        "capabilityStatus": "Enabled",
+        "consumedUnits": 3,
+        "prepaidUnits": {
+          "enabled": 25,
+          "suspended": 0,
+          "warning": 0
+        },
+        "servicePlans": [
+          {
+            "servicePlanId": "8c098270-9dd4-4350-9b30-ba4703f3b36b",
+            "servicePlanName": "ADALLOM_S_DISCOVERY",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          },
+          {
+            "servicePlanId": "efb87545-963c-4e0d-99df-69c6916d9eb0",
+            "servicePlanName": "WINDEFATP",
+            "provisioningStatus": "Success",
+            "appliesTo": "User"
+          }
+        ],
+        "skuId": "b05e124f-c7cc-45a0-a6aa-8cf78c946968",
+        "skuPartNumber": "EMSPREMIUM",
+        "appliesTo": "User"
+      }
+    ]
+  },
+  "metadata": {
+    "generated": "2026-02-11T15:03:30.785Z",
+    "domain": "company.demo",
+    "totalUsers": 100,
+    "enabledUsers": 69,
+    "disabledUsers": 31,
+    "totalLicenses": 6,
+    "description": "Mock Microsoft Graph API data for testing and development"
+  }
+}
